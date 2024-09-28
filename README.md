@@ -1,6 +1,7 @@
 # Investment Calculator
 
 This is a simple **Investment Calculator** built with **React**. It allows users to input investment details and view the calculated results for each year, including interest earned, total amount invested, and value at the end of the year. This project demonstrates how to create a modular React app with reusable components and currency formatting.
+![image](https://github.com/user-attachments/assets/f020debd-5f0d-490b-8cc7-42a6a7b83885)
 
 ## Table of Contents
 - [Features](#features)
